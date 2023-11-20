@@ -1,6 +1,6 @@
 # printf, but recoded
 
-This version of printf handles the following range of conversion specifiers:
+It handles the following range of conversion specifiers:
 - %c (single character)
 - %s (string)
 - %d and %i (signed decimal integer)
